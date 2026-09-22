@@ -1,0 +1,3 @@
+[build]
+  base = "Mohamed-Kaif-Portfolio"
+  publish = "dist"
